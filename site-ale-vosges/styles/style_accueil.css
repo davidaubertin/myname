@@ -1,0 +1,21 @@
+html { background-color:#30f50d; font-size: 10px;  } 
+	* {margin:0;} 
+
+#titre-logo { width: 100%; height:5rem; padding: 0 auto; background-color:violet; } 
+#logo {width: 5rem; } 
+#logo:hover { width:15em; }
+#page-accueil { font-size: 1.8rem; } 
+
+nav { font-size: 2rem; padding:0px auto; border: 0.4rem solid violet;} 
+li {list-style-type:none;} 
+li a {margin:0 0.8rem ;color:#1d14e9; text-decoration:none} 
+li a:hover {text-decoration:underline; } 
+li {float: left; padding: 5px 15px; border:2px solid violet;} 
+
+main {display:block; height:100%;  margin: 4rem 0.5rem 0.5rem 0.5rem; border: 0.3px dashed black;padding: 0.5rem 0 0.5rem 0.5rem;background-color:#d1cccc;}
+h2 {font-size: 2rem;}
+#raquettes{display:inline; border:4px solid violet; width:48%; margin:0 1rem 0 0;}
+#velo{display:inline; border:4px solid violet; width:48%; margin:0 1rem 0 0;}
+
+footer {display:block; height;100%; margin: 0.5rem 0.5rem; border:3px solid violet; border-bottom: ridge 2rem violet ; padding: 1rem;} 
+footer p {font-size: 2rem;} 
